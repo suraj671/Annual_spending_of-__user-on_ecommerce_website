@@ -10,6 +10,8 @@ Home Page:
 
 
 Prediction Page:
+
+
 ![image](https://user-images.githubusercontent.com/89400201/130467409-7c14201b-d034-4a9c-911d-71782395475e.png)
 
  
@@ -19,6 +21,7 @@ Prediction Page:
 
 
 Predict/Result Page:
+
 
  ![image](https://user-images.githubusercontent.com/89400201/130467410-e787c152-8982-43ef-a336-4d7e1ba96d27.png)
 
